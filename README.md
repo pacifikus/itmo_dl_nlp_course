@@ -14,6 +14,8 @@
 - [3.5 Тематическое моделирование, особенности токенизации в трансформерах (18.03.2026)](Lecture%2010)
 
 - [4.1 Оценка качества токенизации, добавление токенов в токенизатор. Стадии обучения LLM: pretrain, SFT, RLHF. Адаптация LLM: propmt engineering, RAG, finetuning, CPT vs SFT (20.03.2026)](Lecture%2011)
+- [4.2 Дообучение LLM: SFT + PEFT (QLora) (25.03.2026)](Lecture%2012)
+- [4.3 Prefill vs Decode, KV-cache, оптимизации для memory-bound / compute-bound в LLM, профилирование с PyTorch Profiler (27.03.2026)](Lecture%2013)
 ______
 
 #### Домашние задания
