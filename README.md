@@ -16,6 +16,7 @@
 - [4.1 Оценка качества токенизации, добавление токенов в токенизатор. Стадии обучения LLM: pretrain, SFT, RLHF. Адаптация LLM: propmt engineering, RAG, finetuning, CPT vs SFT (20.03.2026)](Lecture%2011)
 - [4.2 Дообучение LLM: SFT + PEFT (QLora) (25.03.2026)](Lecture%2012)
 - [4.3 Prefill vs Decode, KV-cache, оптимизации для memory-bound / compute-bound в LLM, профилирование с PyTorch Profiler (27.03.2026)](Lecture%2013)
+- [4.4 Профилирование обучения LLM. Alignment: RLHF, PPO, DPO, KTO, GRPO. (01.04.2026)](Lecture%2014)
 ______
 
 #### Домашние задания
@@ -26,3 +27,4 @@ ______
 | [2](HW/itmo_nlp_course_hw_2.md) | Классификация текстов с W2V | 15 | 22.03.2026 20:00 МСК|
 | [3](HW/itmo_nlp_course_hw_3.md) | Дообучение энкодера: NER, MLM-адаптация, hard-label дистилляция | 30 | 29.03.2026 20:00 МСК|
 | [4](HW/itmo_nlp_course_hw_4.md) | Тематическое моделирование | 15 | 05.04.2026 20:00 МСК|
+| [5](HW/itmo_nlp_course_hw_5.md) | Обучение LLM и профайлинг | 15 | 22.04.2026 20:00 МСК|
