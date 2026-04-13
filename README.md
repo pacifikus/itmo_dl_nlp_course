@@ -17,6 +17,8 @@
 - [4.2 Дообучение LLM: SFT + PEFT (QLora) (25.03.2026)](Lecture%2012)
 - [4.3 Prefill vs Decode, KV-cache, оптимизации для memory-bound / compute-bound в LLM, профилирование с PyTorch Profiler (27.03.2026)](Lecture%2013)
 - [4.4 Профилирование обучения LLM. Alignment: RLHF, PPO, DPO, KTO, GRPO. (01.04.2026)](Lecture%2014)
+- [4.5 DPO, KTO, aligment fallbacks (08.04.2026)](Lecture%2015)
+- [4.6 Аблитерация. Интерпретация LLM (10.04.2026)](Lecture%2016)
 ______
 
 #### Домашние задания
